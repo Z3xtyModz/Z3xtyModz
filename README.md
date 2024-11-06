@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @Z3xtyModz
+- 👀 I’m interested in Gorilla Tag Mods
+- 🌱 I’m currently learning C#
+- 💞️ I’m looking to collaborate on Mod Menus
+- 📫 How to reach me @z3xty@yahoo.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: Gorilla Tag uses C# for their code!
